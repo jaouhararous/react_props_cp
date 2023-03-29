@@ -1,0 +1,16 @@
+.prof{
+  display: flex;
+flex-direction: column;
+
+
+}
+.btn{
+  display: flex;
+  -ms-flex-align: center;
+  margin: 50px;
+}
+.img{
+  display: flex;
+  margin: 50px;
+  align-items: center;
+}
